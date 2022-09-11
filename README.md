@@ -1,8 +1,6 @@
 # cron-tweet
 
-Can I edit?
-A template repo to schedule tweets via GitHub Actions. Inspired by a recent
-conversation with [@GetzlerChem](https://twitter.com/GetzlerChem).
+In which Yutan attempts to mimic someone who knows what they're doing. Text below unaltered from the original.
 
 ## Requirements
 
